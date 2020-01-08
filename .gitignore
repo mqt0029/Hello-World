@@ -3,3 +3,4 @@ hello-cpp
 hello-gui
 *.class
 *.exe
+*.txt
