@@ -8,9 +8,6 @@ import pyrealsense2 as pr2
 import dlib as dl
 import torch as tv
 
-print( f'Using OpenCV version { cv2.__version__ }' )
-print( f'   Using CUDA: { cv2.cuda.getCudaEnabledDeviceCount() }' )
-
 print( f'Using Tensorflow version { tf.__version__ }' )
 GPUs = tf.config.list_physical_devices('GPU')
 
@@ -21,6 +18,9 @@ print( f'   Using CUDA: { tv.cuda.is_available() }' )
 
 print( f'Using dlib version { dl.__version__ }' )
 print( f'   Using CUDA: { dl.DLIB_USE_CUDA }' )
+
+print( f'Using OpenCV version { cv2.__version__ }' )
+print( f'   Using CUDA: { cv2.cuda.getCudaEnabledDeviceCount() }' )
 
 # print( f'Using Intel Realsense version { pr2.__version__ }' )
 
