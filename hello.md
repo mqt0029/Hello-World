@@ -2,6 +2,13 @@
 
 Testing out markdown capabilities
 
+## Checkboxes
+
+- [ ] So this is what it looks like?
+- [X] ~~*That's neat, VSCode even gave me a counter*~~ [2020-09-16]
+
+Oh ho ho, that's pretty neat.
+
 ## Emojis
 
 😱 😎
