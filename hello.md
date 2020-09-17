@@ -13,7 +13,11 @@ ok we're done here.
 $$\int x^2 \, dx = \frac{x^3}3 +C$$
 $$\iint r(\cos\varphi+\sin\varphi)\,d\varphi\,dr$$
 
-Pretty neat.
+Well, if only math equations works natively...
+
+![equation](https://latex.codecogs.com/gif.latex?%5Ciint%20r%28%5Ccos%5Cvarphi&plus;%5Csin%5Cvarphi%29%5C%2Cd%5Cvarphi%5C%2Cdr)
+
+This should work, but it's kind of cumbersome to do...
 
 ## Graph
 
