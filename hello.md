@@ -11,7 +11,7 @@ Oh ho ho, that's pretty neat.
 
 ## Emojis
 
-😱 😎
+🤡
 
 ok we're done here.
 
